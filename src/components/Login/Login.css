@@ -1,0 +1,90 @@
+.main{
+    width: 85%;
+    height: 550px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+}
+.one{
+    width: 60%;
+    height: 100%;
+    background-color: #F0F4FC;
+}
+.one>img{
+    margin-top: 10%;
+    margin-left: 20%;
+    height: 40%;
+    width: 60%;
+}
+.one>p:nth-child(1){
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 125%;
+text-align: center;
+color: #203765;
+}
+.one>p:nth-child(2){
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: center;
+color: rgba(32, 55, 101, 0.8);
+}
+.two{
+    width: 38%;
+    height: 100%;
+    background-color: white;
+}
+.two>div{
+    margin: auto;
+    margin-top: 30%;
+    width: 294px;
+    height: 316px;
+}
+.two>div>p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 125%;
+/* identical to box height, or 28px */
+color: #29375F;
+text-align: center;
+}
+
+.two>div>input{
+    width: 100%;
+    height: 44px;
+    margin-top: 10px;
+    color: rgba(41, 55, 95, 0.4);
+    background: #FFFFFF;
+border: 1px solid rgba(192, 206, 255, 0.7);
+border-radius: 6px;
+}
+
+.two>div>button{
+    width: 294px;
+height: 44px;
+left: 961px;
+top: 564px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+margin-top: 30px;
+text-align: center;
+color: #FFFFFF;
+background: #FC6964;
+border-radius: 12px;
+border: none;
+}
+body{
+    background-color: #E5E5E5;
+}
