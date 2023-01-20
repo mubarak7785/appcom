@@ -64,6 +64,39 @@ export const Appointment = () => {
                 <div><p className="border1">Paid</p></div>
                 <div><h2 className="icon">⋮</h2></div>   
             </div>
+            <div className="row2">
+                <div> <p> <span> 2456751</span> </p></div>
+                <div> <p>Nikita Gandhi<br /><br />29,F</p> </div>
+                <div> <p> <span> Video</span><br /><br /> First Consultation</p></div>
+                <div> <p>Medical Camp</p></div>
+                <div><p>Sujata Mohan</p></div>
+                <div><p>Jul 3, 2021 <br /><br />8:53 AM</p></div>
+                <div> <p className="border1">Booked</p> </div>
+                <div><p className="border1">Paid</p></div>
+                <div><h2 className="icon">⋮</h2></div>   
+            </div>
+            <div className="row2">
+                <div> <p> <span> 2456755</span> </p></div>
+                <div> <p>Darshan Singh<br /><br />36,M</p> </div>
+                <div> <p> <span> In-person</span><br /><br /> Second Opinion</p></div>
+                <div> <p></p></div>
+                <div><p>Ram Dayanand</p></div>
+                <div><p>Jul 3, 2021 <br /><br />8:53 AM</p></div>
+                <div> <p className="border1">Booked</p> </div>
+                <div><p className="border1">Unpaid</p></div>
+                <div><h2 className="icon">⋮</h2></div>   
+            </div>
+            <div className="row2">
+                <div> <p> <span> 2421751</span> </p></div>
+                <div> <p> Risha Mahin<br /><br />19,F</p> </div>
+                <div> <p> <span> Video</span><br /><br /> First Consultation</p></div>
+                <div> <p></p></div>
+                <div><p>Prakash Jhanti</p></div>
+                <div><p>Jul 3, 2021 <br /><br />8:53 AM</p></div>
+                <div> <p className="border1">Completed</p> </div>
+                <div><p className="border1">Paid</p></div>
+                <div><h2 className="icon">⋮</h2></div>   
+            </div>
           </div>
         </div>
        

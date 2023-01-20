@@ -1,7 +1,7 @@
 .main-div2{
     width: 95%;
     margin: auto;
-    height: 1550px;
+    height: 700px;
     display: flex;
    
 }
@@ -67,8 +67,8 @@ color:  rgba(41, 55, 95, 0.6);
 .con-div{
     width: 98%;
     height: 575px;
-    border: 1px solid black;
-    margin-left: 2%;
+   
+    margin-left: 2.2%;
 }
 
 .row1{
@@ -76,11 +76,13 @@ color:  rgba(41, 55, 95, 0.6);
     height: 46px;
     display: flex;
     justify-content: space-evenly;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
 }
 .row1>div{
     width: 11%;
     height: 100%;
-    border: 1px solid red;
+   
+  
     display: flex;
     align-items: center;
     justify-content: center;
@@ -104,11 +106,13 @@ color: rgba(41, 55, 95, 0.6);
     height: 80px;
     display: flex;
     justify-content: space-evenly;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-top: none;
+    border-radius: 6px;
 }
 .row2>div{
     width: 11%;
     height: 100%;
-    border: 1px solid red;
     display: flex;
     align-items: center;
     justify-content: center;
