@@ -1,0 +1,148 @@
+.main-div2{
+    width: 95%;
+    margin: auto;
+    height: 1550px;
+    display: flex;
+   
+}
+.sidebar2{
+    width: 77px;
+    height: 100%;
+    background: #203765;
+}
+.sidebar2>div{
+    width: 24px;
+    margin: auto;
+    height: 400px;
+    margin-top: 190%;
+}
+
+.header2{
+    border: 1px solid transparent;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.main-div2>div:nth-child(2){
+    width: 95%;
+    height: 100%;
+}
+.content2{
+
+    width: 100%;
+    height: 93%;
+}
+.header2>p:nth-child(1){
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 125%;
+    /* identical to box height, or 32px */
+    
+    
+    /* Style */
+    
+    color: #29375F;
+margin-left: 3%;
+margin-bottom: 5%;
+}
+.header2>p:nth-child(2){
+    margin-left: 3%;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 135.19%;
+
+/* identical to box height, or 22px */
+
+letter-spacing: 0.06em;
+margin-top: -3%;
+color:  rgba(41, 55, 95, 0.6);
+
+
+}
+
+.con-div{
+    width: 98%;
+    height: 575px;
+    border: 1px solid black;
+    margin-left: 2%;
+}
+
+.row1{
+    width: 100%;
+    height: 46px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.row1>div{
+    width: 11%;
+    height: 100%;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.row1>div>p{
+    font-family: "calibri";
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: rgba(41, 55, 95, 0.6);
+}
+
+.row2{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.row2>div{
+    width: 11%;
+    height: 100%;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.row2>div>p{
+    font-family: "calibri";
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 12px;
+/* identical to box height */
+
+/* text-transform: uppercase; */
+
+color:#29375F;
+}
+
+span{
+    font-weight: bold;
+}
+
+.border1{
+    padding: 4px 10px;
+    border-radius: 10px;
+    background-color: lightpink;
+}
+
+/* .icon{
+  
+    font-weight: bold;
+    font-size: large;
+} */
+
+h2{
+    color: rgba(41, 55, 95, 0.6);;
+}
